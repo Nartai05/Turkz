@@ -253,7 +253,7 @@ def home():
         </div>
 
         <div class="main-content">
-            <div class="section-title">🔥 {selected_city} қаласынан ұшуға арналған ысық турлар</div>
+            <div class="section-title">🔥 {selected_city} қаласынан ұшуға арналған ыстық турлар</div>
     '''
 
     for tour in filtered:
